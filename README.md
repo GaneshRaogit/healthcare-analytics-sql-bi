@@ -33,8 +33,9 @@ This repository turns raw hospital data into a governed semantic layer and execu
 - **SQL (MySQL)** :- for canonicalization, feature engineering, and semantic views, aligned with standard analytics layering for repeatable KPIs.​
 - **Power BI** :- for interactive dashboards and drill‑downs with reusable measures and on‑canvas definitions to preserve trust in metrics.​
 
- ````
+
 ## Project structure
+````
 Project Structure (suggested)
 /
 ├─ sql/
