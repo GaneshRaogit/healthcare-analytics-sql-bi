@@ -33,6 +33,7 @@ This repository turns raw hospital data into a governed semantic layer and execu
 - **SQL (MySQL)** :- for canonicalization, feature engineering, and semantic views, aligned with standard analytics layering for repeatable KPIs.​
 - **Power BI** :- for interactive dashboards and drill‑downs with reusable measures and on‑canvas definitions to preserve trust in metrics.​
 
+ ````
 ## Project structure
 Project Structure (suggested)
 /
@@ -48,7 +49,7 @@ Project Structure (suggested)
 │ └─ financials_doctors_hospitals.png
 └─ docs/
 └─ kpi_definitions.md
-
+````
 ## Data preparation
 - **Text normalization**: TRIM/LOWER across name, provider, and hospital dimensions prevents grouping fragmentation in BI and ensures stable joins over time.​
 - **Date parsing**: STR_TO_DATE on admission/discharge enables deterministic LOS and seasonality analyses; invalid or missing dates are handled upstream to avoid runtime errors.​
