@@ -36,7 +36,6 @@ This repository turns raw hospital data into a governed semantic layer and execu
 
 ## Project structure
 ````
-Project Structure (suggested)
 /
 ├─ sql/
 │ ├─ 01_healthcare_data.sql
@@ -88,12 +87,12 @@ Billing captured at encounter level without reimbursement/line‑item detail; an
 
 ## Author & Contact
 
-**[Your Name]**  
-*Data Analyst & Business Intelligence Specialist*
+**Ganesh_Rao**  
+*Data Analyst & Business Intelligence*
 
-🎯 **Specialized in**: Retail Analytics, Customer Behavior Analysis, Statistical Modeling  
+🎯 **Specialized in**: healthcare Analytics, Retail Analytics, Customer Behavior Analysis, Statistical Modeling  
 📊 **Experience**: Advanced EDA, Python Programming, Business Intelligence  
-🎓 **Focus Areas**: Data Analytics, SQL, Machine Learning, Statistical Analysis
+🎓 **Focus Areas**: Data Analytics, SQL, Machine Learning, Statistical Analysis, Power Bi
 
 ### Connect with me:
 📧 **Email**: [jganeshrao5@gmail.com](mailto:jganeshrao5@gmail.com)  
