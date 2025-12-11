@@ -36,7 +36,7 @@ This repository turns raw hospital data into a governed semantic layer and execu
 
 ## Project structure
 ````
-/
+|
 ├─ sql/
 │ ├─ 01_healthcare_data.sql
 │ ├─ 02_length_of_stay.sql
